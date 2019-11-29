@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6B133ADD2390368E00014F9C /* light.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = light.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B133ADD2390368E00014F9C /* Light.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Light.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B133AE02390368E00014F9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6B133AE22390368E00014F9C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		6B133AE42390368E00014F9C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		6B133AD42390368E00014F9C = {
 			isa = PBXGroup;
 			children = (
-				6B133ADF2390368E00014F9C /* light */,
+				6B133ADF2390368E00014F9C /* Light */,
 				6B133ADE2390368E00014F9C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		6B133ADE2390368E00014F9C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6B133ADD2390368E00014F9C /* light.app */,
+				6B133ADD2390368E00014F9C /* Light.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6B133ADF2390368E00014F9C /* light */ = {
+		6B133ADF2390368E00014F9C /* Light */ = {
 			isa = PBXGroup;
 			children = (
 				6B133AE02390368E00014F9C /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				6B133AEB2390368F00014F9C /* LaunchScreen.storyboard */,
 				6B133AEE2390368F00014F9C /* Info.plist */,
 			);
-			path = light;
+			path = Light;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6B133ADC2390368E00014F9C /* light */ = {
+		6B133ADC2390368E00014F9C /* Light */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6B133AF12390368F00014F9C /* Build configuration list for PBXNativeTarget "light" */;
+			buildConfigurationList = 6B133AF12390368F00014F9C /* Build configuration list for PBXNativeTarget "Light" */;
 			buildPhases = (
 				6B133AD92390368E00014F9C /* Sources */,
 				6B133ADA2390368E00014F9C /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = light;
+			name = Light;
 			productName = light;
-			productReference = 6B133ADD2390368E00014F9C /* light.app */;
+			productReference = 6B133ADD2390368E00014F9C /* Light.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6B133AD82390368E00014F9C /* Build configuration list for PBXProject "light" */;
+			buildConfigurationList = 6B133AD82390368E00014F9C /* Build configuration list for PBXProject "Light" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6B133ADC2390368E00014F9C /* light */,
+				6B133ADC2390368E00014F9C /* Light */,
 			);
 		};
 /* End PBXProject section */
@@ -321,7 +321,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6B133AD82390368E00014F9C /* Build configuration list for PBXProject "light" */ = {
+		6B133AD82390368E00014F9C /* Build configuration list for PBXProject "Light" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6B133AEF2390368F00014F9C /* Debug */,
@@ -330,7 +330,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6B133AF12390368F00014F9C /* Build configuration list for PBXNativeTarget "light" */ = {
+		6B133AF12390368F00014F9C /* Build configuration list for PBXNativeTarget "Light" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6B133AF22390368F00014F9C /* Debug */,
